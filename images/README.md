@@ -1,10 +1,1 @@
 В данной папке размещаем файлы изображений *.jpg, *.png, *.svg
-![иконка_млбб](https://github.com/user-attachments/assets/0ab41320-4f05-4201-a777-3431d5373a88)
-![иконка_дота_2](https://github.com/user-attachments/assets/abd57520-5f9f-4a95-ac0b-9d48456909b6)
-![иконка_лига_легенд](https://github.com/user-attachments/assets/e98deedc-d301-4c4e-80c3-63a4103d7bbf)
-![иконка_лига_легенд_вр](https://github.com/user-attachments/assets/01313346-2b5a-4ca3-8dd9-6e553e72e0b3)
-![Honor_of_Kings_Logo](https://github.com/user-attachments/assets/1e353721-0264-46fc-9e02-d656be6a585d)
-![поле_боя_лига_легенд](https://github.com/user-attachments/assets/d98a4980-040a-41b5-b7e7-bf3f039c9ef4)
-![поле_боя_дота_2](https://github.com/user-attachments/assets/90fdd6c6-3f55-4f94-9a42-3ef7ae15fcbf)
-![поле_боя_млбб](https://github.com/user-attachments/assets/55b426b3-f3be-4593-9ad8-3dcb3c934768)
-![поле_боя_хонор_оф_кингс](https://github.com/user-attachments/assets/f133c915-1d69-4b83-8e31-199507118a89)
