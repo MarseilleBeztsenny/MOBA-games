@@ -7,8 +7,13 @@
   <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-<header>
+<header class="header">
 <h1>MOBA-games</h1>
+<img class="header__logo"
+src="images/лого_MOBA_games.png"
+width="250"
+height="250"
+alt="логотип сайта">
   <p>MOBA (многопользовательская онлайновая боевая арена) — это поджанр многопользовательских стратегических видеоигр в реальном времени.
 
 В таких играх главная цель — защита своей базы и уничтожение вражеской. На пути к этой цели игрокам необходимо собирать разбросанные по карте игры ресурсы, усиливать свои юниты и мешать вражеским игрокам делать то же самое.
@@ -21,64 +26,65 @@
 
 MOBA-игры считаются одним из самых значимых жанров в мировом киберспорте.</p>
 </header>
-<nav>
-<ul>
-<li><a href="#home">Лобби</a></li>
-<li><a href="#about">О нас</a></li>
-<li><a href="#contact">Контакты</a></li>
+<nav class="header__menu">
+<ul class="menu">
+<li class="menu__item menu__item--active"><a class="menu__link" href="#home">Лобби</a></li>
+<li class="menu__item"><a class="menu__link" href="#about">О нас</a></li>
+<li class="menu__item"><a class="menu__link" href="#contact">Контакты</a></li>
 </ul>
 </nav>
-<main>
-<section id="home">
-  <h2>Наиболее популярные игры жанра MOBA в мире</h2>
-</section>
-  <section>
-    <img
+<main class="main">
+  <section class="games">
+    <h2 class="game__title">Наиболее популярные игры в жанре MOBA</h2>
+  </section>
+  <section class="game__card">
+    <img class="mlbb__logo"
     src="images/иконка_млбб.jpg"
     width="250"
     height="250"
     alt="иконка игры MLBB">
-    <h2><button>Legends: Bang Bang </button></h2>
+    <h2><button class="section__button">Legends: Bang Bang </button></h2>
     <p>Многопользовательская командная видеоигра в жанре MOBA, разработанная Moonton для мобильных устройств.</p>
 </section>
-<section>
-  <img
+<section class="game__card">
+  <img class="LoL__logo"
     src="images/иконка_лига_легенд.jpg"
     width="250"
     height="250"
     alt="иконка игры лига легенд">
-  <h2><button>League of Legends</button></h2>
+  <h2><button class="section__button">League of Legends</button></h2>
   <p>Многопользовательская компьютерная игра в жанре MOBA, разработанная и выпущенная американской компанией Riot Games в 2009 году для платформ Microsoft Windows и macOS.</p>
 </section>
-<section>
-  <img
+<section class="game__card">
+  <img class="WR__logo"
     src="images/иконка_вайлд_рифт.jpg"
     width="250"
     height="150"
     alt="иконка игры лига легенд: вайлд рифт">
-<h2><button>League of Legends: Wild Rift</button></h2>
+<h2><button class="section__button">League of Legends: Wild Rift</button></h2>
 <p>Многопользовательская онлайн видеоигра на боевой арене, разработанная и изданная Riot Games для Android, IOS и консолей.</p>
 </section>
-<section>
-  <img
+<section class="game__card">
+  <img class="Dota2__logo"
     src="images/иконка_дота_2.jpg"
     width="250"
     height="250"
     alt="иконка игры дота 2">
-  <h2><button>Dota 2</button></h2>
+  <h2><button class="section__button">Dota 2</button></h2>
   <p>Многопользовательская командная компьютерная игра в жанре MOBA, разработанная и изданная корпорацией Valve.</p>
 </section>
-<section>
-  <img
+<section class="game__card">
+  <img class="HoK__logo"
     src="images/иконка_ХоК.png"
     width="250"
     height="120"
     alt="иконка игры ХоК">
-<h2><button>Honor of Kings</button></h2>
+<h2><button class="section__button">Honor of Kings</button></h2>
 <p>Многопользовательская онлайн-арена (MOBA), разработанная TiMi Studio Group и изданная Tencent Games для мобильных платформ iOS и Android.</p>
 </section>
+
 </main>
-<footer>
+<footer class="footer">
 <p>© 2024 Все права защищены.</p>
 </footer>
 </body>
